@@ -10,5 +10,5 @@ Página desenvolvida através do curso **HTML e CSS: praticando HTML/CSS**.
 - HTML
 - CSS
 
-## 📷 Wireframe Figma
+## 📷 Protótipo Figma
  <img src="images/Desktop - 2.png">
